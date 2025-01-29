@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'streamlit-app-test-cler'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06EEC17A0B294EE88DFD89674F5ADF86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC7931FD93204B669824429D76E454EB }}
